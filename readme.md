@@ -34,7 +34,7 @@ Este projeto é uma aplicação web simples para gerenciamento de fluxo de caixa
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/rodriigues03/fluxo-caixa.git
+git clone https://github.com/rodriigues11/fluxo.git
 ```
 
 2. Navegue até o diretório do projeto:
